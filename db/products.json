@@ -1,0 +1,20 @@
+[
+  {
+    "product": "Pink Floyd - Animals",
+    "stock": 20,
+    "price": 63,
+    "id": 1
+  },
+  {
+    "product": "Pearl Jam - Ten",
+    "stock": 12,
+    "price": 54,
+    "id": 3
+  },
+  {
+    "product": "Linkin Park - A Thousand Suns",
+    "stock": 8,
+    "price": 12,
+    "id": 4
+  }
+]
